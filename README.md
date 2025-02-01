@@ -1,6 +1,13 @@
 # Bot Viajero para Sherpa WTF
 
-# Comenzamos instalando nuestras dependencias 
+
+# Clonamos el repositorio de github 
+# https://github.com/Nico-Traczuk/botviajero.git
+
+# si no tenemos git lo descargamos
+# https://git-scm.com/downloads 
+
+# Instalamos nuestras dependencias 
 
 # Abrimos nuestra terminal
 # Ejecutamos npm install
