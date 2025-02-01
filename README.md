@@ -1,15 +1,15 @@
 # Bot Viajero para Sherpa WTF
 
+# Abrimos nuestra terminal
 
 # Clonamos el repositorio de github 
-# https://github.com/Nico-Traczuk/botviajero.git
+# lanzando esta accion en nuestra terminal
+# git clone https://github.com/Nico-Traczuk/botviajero.git
 
 # si no tenemos git lo descargamos
 # https://git-scm.com/downloads 
 
 # Instalamos nuestras dependencias 
-
-# Abrimos nuestra terminal
 # Ejecutamos npm install
 
 # si no tenemos instalado npm ni node.js los instalamos
